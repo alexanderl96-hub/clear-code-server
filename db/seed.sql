@@ -336,5 +336,4 @@ INSERT INTO stats ( message_id, message, date, week, severity, rating ) VALUES
 ('trailingSpace', 'Trailing spaces not allowed.', '2021-12-11', '50', 1, 3),
 ('trailingSpace', 'Trailing spaces not allowed.', '2021-12-13', '50', 1, 3),
 ('trailingSpace', 'Trailing spaces not allowed.', '2021-12-19', '51', 1, 3),
-('trailingSpace', 'Trailing spaces not allowed.', '2021-12-26', '52', 1, 3)
-;
+('trailingSpace', 'Trailing spaces not allowed.', '2021-12-26', '52', 1, 3);
